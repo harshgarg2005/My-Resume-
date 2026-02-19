@@ -7,13 +7,13 @@ This repository contains my latest resume along with details about my skills, pr
 ---
 
 ## 👤 About Me
-Hi, I’m **[Harsh Garg]** — a passionate about **[Business Analyst]**.  
+Hi, I’m **Harsh Garg** — a passionate about **Business Analyst**.  
 I enjoy working on real-world problems, learning new technologies, and building impactful solutions.
 
-- 🎓 Education: [MCA / Computer Science]
+- 🎓 Education: MCA / Computer Science
 
-- 📍 Location: [Jaipur, Rajasthan, India]
-- 📫 Contact: [gargharsh9664@gmail.com]
+- 📍 Location: Jaipur, Rajasthan, India
+- 📫 Contact: +91 7877271166
 
 ---
 
@@ -38,8 +38,8 @@ I enjoy working on real-world problems, learning new technologies, and building 
 
 ## 📬 Connect With Me
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/gargharsh2005]  
-- 📧 Email: [gargharsh9664@gmail.com]
+- 💼 LinkedIn: https://www.linkedin.com/in/gargharsh2005  
+- 📧 Email: gargharsh9664@gmail.com
 
 ---
 
